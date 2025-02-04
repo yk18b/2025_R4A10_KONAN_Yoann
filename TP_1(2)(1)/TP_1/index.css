@@ -1,0 +1,47 @@
+#pNom{
+    float: left ;
+	
+	
+	margin: 10px;
+}
+#pAccueil{
+  
+    float: right ;
+	
+	margin: 10px;
+}
+
+#div1{
+    border: 2px solid;
+    float: right ;
+	
+	margin: 10px;
+}
+#Imagediv1{
+  text-align: center;
+  margin: 70px;
+}
+ul{
+    margin: 10px;
+    list-style-type: none;
+
+}
+.box{
+    display: flex;
+}
+#ulFooter{
+    
+    flex-direction:column
+    https://developer.mozilla.org/fr/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox
+}
+
+#Logo{
+    margin: 10px;
+    display: flex;
+    background-color: grey;
+}
+#Slogan{
+    margin: 10px;
+    display: flex;
+
+}
